@@ -1,6 +1,4 @@
 # Interests
 Science, Sport, Nature
 
-
-
-# Themes
+Science = CS, Biology, Math
